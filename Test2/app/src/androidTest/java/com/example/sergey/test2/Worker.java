@@ -77,7 +77,7 @@ public class Worker {
         }
     }
 
-    public List<Double> calculate(List<Double> input) {
-
-    }
+//    public List<Double> calculate(List<Double> input) {
+//
+//    }
 }
