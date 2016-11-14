@@ -68,12 +68,16 @@ public class Worker {
         }
     }
 
-    public List<Double> getInput() {
-        return new ArrayList<>();
+    public Bitmap[] getBitmaps() {
+        synchronized (mBitmaps) {
+            Bitmap[] result = new Bitmap[IMAGETS_LIMIT];
+            mBitmaps.toArray(result);
+            mBitmaps.clear();
+            return result;
+        }
     }
 
     public List<Double> calculate(List<Double> input) {
-        return new ArrayList<>();
-    }
 
+    }
 }
