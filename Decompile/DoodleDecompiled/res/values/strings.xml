@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prigajushie chelovechki</string>
+    <string name="MIDlet_Name">Prigajushie chelovechki</string>
+    <string name="MIDlet_Version">1.4.10</string>
+    <string name="MIDlet_Vendor">Mr. Goodliving Ltd</string>
+    <string name="MIDlet_1">Prigajushie chelovechki, /i.png, null</string>
+    <string name="MIDlet_Icon">/i.png</string>
+    <string name="MicroEdition_Profile">MIDP-1.0</string>
+    <string name="MIDlet_Jar_Size">should not see this</string>
+    <string name="MIDlet_Jar_URL">should not see this</string>
+</resources>

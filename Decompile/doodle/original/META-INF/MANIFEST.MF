@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_14 (Sun Microsystems Inc.)
+
+Name: res/raw/sfx_3.ogg
+SHA1-Digest: vEQKdITrT71P+BbnkhHY6s4NoPs=
+
+Name: assets/i.png
+SHA1-Digest: 2omu6RNt4tpZsnLeimsO2nwm6/U=
+
+Name: assets/data/b0
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable/i.png
+SHA1-Digest: lE5PXFhPxCctDK5K49kc7bqdi5o=
+
+Name: assets/data/g0
+SHA1-Digest: tQvOoDMcTzDyVzLxDfL5jPd2uis=
+
+Name: assets/data/b1
+SHA1-Digest: ZEjHKOGn7sWia8zusGa5/dFtgv8=
+
+Name: assets/data/g1
+SHA1-Digest: 6l/3IX5Cqxks0bSaRDW0vkKcR40=
+
+Name: res/raw/sfx_0.ogg
+SHA1-Digest: hX0JNtzv732ItSEORh7JFDb04Cw=
+
+Name: resources.arsc
+SHA1-Digest: HHHLVwkU8XUengAQa1NNPK95f4Y=
+
+Name: classes.dex
+SHA1-Digest: WbbQRDyPAUsQleq2hHWXBdlFa9I=
+
+Name: assets/data/g2
+SHA1-Digest: fjqI+nOI+UweXXIhJXyzlnQfd4k=
+
+Name: assets/data/g3
+SHA1-Digest: IpFwFtdl0lXqEIKaOjSNaINPRCo=
+
+Name: res/raw/sfx_4.ogg
+SHA1-Digest: ZC/PrKxc+3gvqM3d4O/EYiMNChE=
+
+Name: assets/data/i
+SHA1-Digest: 8fEg1pzna6b+VgLMZc083/ryrYk=
+
+Name: res/layout/main.xml
+SHA1-Digest: uQ2ab7Z9T2R3bVhnE1yB32HamMM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rpK+dfecgQcULJmaL8f37yalwB8=
+
+Name: assets/data/l
+SHA1-Digest: EWxS+HGvG1ddOSnIAIez6DlmPzA=
+
+Name: assets/data/p
+SHA1-Digest: oN/a6s/KgSFdVlZxEToJo0IL6ek=
+
+Name: res/raw/sfx_1.ogg
+SHA1-Digest: zQ/96MMgDTRfXEt8IeIWQyN6lEw=
+
+Name: res/raw/sfx_2.ogg
+SHA1-Digest: tYYyvRE2O7pT96HZkRU7quD6/og=
+
