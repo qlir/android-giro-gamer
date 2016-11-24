@@ -6,19 +6,10 @@ doNotCompress:
 - assets/data/b0
 - assets/data/p
 isFrameworkApk: false
-packageInfo:
-  forcedPackageId: '127'
-  renameManifestPackage: null
-sdkInfo:
-  minSdkVersion: '4'
-  targetSdkVersion: '4'
+packageInfo: null
+sdkInfo: null
 sharedLibrary: false
 unknownFiles: {}
-usesFramework:
-  ids:
-  - 1
-  tag: null
+usesFramework: null
 version: 2.2.1
-versionInfo:
-  versionCode: '1'
-  versionName: 1.4.10
+versionInfo: null
