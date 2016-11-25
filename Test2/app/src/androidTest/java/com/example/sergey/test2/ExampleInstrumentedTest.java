@@ -26,7 +26,7 @@ public class ExampleInstrumentedTest {
     private Instrumentation mInst;
     private static final int TIMEOUT = 5000;
 
-    private final String TESST_PACKAGE = "com.android.browser";
+    private final String TESST_PACKAGE = "com.realarcade.DOJ";
 
     private void runApp(String packageName) {
         Context context = mInst.getContext();
