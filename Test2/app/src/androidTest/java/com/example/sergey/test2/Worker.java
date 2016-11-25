@@ -39,14 +39,12 @@ public class Worker {
             @Override
             public void run() {
                 while (true) {
-                    /*Log.d("my", "1: " + System.currentTimeMillis());
-                    mUiDevice.takeScreenshot(f);
-                    Log.d("my", "2: " + System.currentTimeMillis());*/
-                    Log.d("my", "1: " + System.currentTimeMillis());
+                    long start = System.currentTimeMillis();
+                    Log.d("test", "TakeScreenshot" + start);
                     takeScreenshot();
-                    Log.d("my", "2: " + System.currentTimeMillis());
+                    long end = System.currentTimeMillis();
                     try {
-                        Thread.sleep(SCREENSHOT_INTERVAL);
+                        Thread.sleep(SCREENSHOT_INTERVAL - (end - start));
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
